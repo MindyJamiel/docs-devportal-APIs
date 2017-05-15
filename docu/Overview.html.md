@@ -12,4 +12,4 @@ Use the **Forum** package's Account service to manage user accounts in your onli
 * Manage user access permissions
 * Manage account status
 
-See the **Details** section in this API documentation for payload requirements. 
+See the **Details** section in this API documentation for service considerations, required scopes, and payload requirements. See the **Tutorials** section for step-by-step example API calls. 
