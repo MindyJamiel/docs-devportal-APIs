@@ -1,11 +1,11 @@
-What does it mean to contribute?
-
 There are four ways you can contribute to this project:
 
-Help Others
-Analyze Issues
-Report an Issue
-Contribute Code
+[Help Others](#help-others)
+[Analyze Issues](#analyze-issues)
+[Report an Issue](#report-an-issue)
+[Contribute Code](#contribute-code)
+
+When you know your issue or solution is valid and ready for prime time, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. 
 
 ### Help Others
 
@@ -60,13 +60,14 @@ There are three important things to know:
 * There are several requirements regarding code style, quality, and product standards which need to be met.
 
 * Not all proposed contributions can be accepted. The code must fit the overall direction of the project and really improve it. For most bug fixes this is a given, but major feature implementation first need to be discussed with one of the projects committers (the top 20 or more of the Contributors List), possibly one who touched the related code recently. The more effort you invest, the better you should clarify in advance whether the contribution fits: the best way would be to just open an enhancement ticket in the issue tracker to discuss the feature you plan to implement (make it clear you intend to contribute). We will then forward the proposal to the respective code owner, this avoids disappointment.
-Contributor License Agreement
+
+### Contributor License Agreement
 
 When you contribute (code, documentation, or anything else), you have to be aware that your contribution is covered by the same Apache 2.0 License that is applied this project. In particular you need to agree to the Individual Contributor License Agreement, which can be found here. (This applies to all contributors, including those contributing on behalf of a company). If you agree to its content, you simply have to click on the link posted by the CLA assistant as a comment to the pull request. Click it to check the CLA, then accept it on the following screen if you agree to it. CLA assistant will save this decision for upcoming contributions and will notify you if there is any change to the CLA in the meantime.
 
-How to contribute - the Process
+### Contribution Process
 
-Make sure the change would be welcome. Best do so by proposing it in a GitHub issue.
+Make sure the change is welcome. Best do so by proposing it in a GitHub issue.
 Fork the project and create a new branch there.
 Commit and push your changes on that branch. In the commit messages, specify what you were changing and provide a GitHub issue number. Issue that you created to discuss the change initially.
 Create a Pull Request to origin repository to the master branch.
