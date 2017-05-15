@@ -1,9 +1,9 @@
 There are four ways you can contribute to this project:
 
-[Help Others](#help-others)
-[Analyze Issues](#analyze-issues)
-[Report an Issue](#report-an-issue)
-[Contribute Code](#contribute-code)
+[Help Others](#help-others) 
+[Analyze Issues](#analyze-issues) 
+[Report an Issue](#report-an-issue) 
+[Contribute Code](#contribute-code) 
 
 When you know your issue or solution is valid and ready for prime time, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. 
 
