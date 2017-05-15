@@ -1,11 +1,11 @@
 There are four ways you can contribute to this project:
 
-[Help Others](#help-others) 
-[Analyze Issues](#analyze-issues) 
-[Report an Issue](#report-an-issue) 
-[Contribute Code](#contribute-code) 
+* [Help Others](#help-others) 
+* [Analyze Issues](#analyze-issues) 
+* [Report an Issue](#report-an-issue) 
+* [Contribute Code](#contribute-code) 
 
-When you know your issue or solution is valid and ready for prime time, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. 
+When you know your issue or solution is valid and ready for submittal, see the [Contribution Process](#contribution-process) topic in this file for step-by-step instructions. 
 
 ### Help Others
 
@@ -53,25 +53,26 @@ We want to improve the quality of this project and good bug reports are welcome!
 
 You are welcome to contribute code to this project in order to fix bugs or to implement new features.
 
-There are three important things to know:
+There are a few important things to know:
 
-* You must be aware of the Apache License (which describes contributions) and agree to the Contributors License Agreement. This is common practice in all major Open Source projects. To make this process as simple as possible, we are using CLA assistant for individual contributions. CLA assistant is an open source tool that integrates with GitHub very well and enables a one-click-experience for accepting the CLA. For company contributers special rules apply. See the respective section below for details.
+* Be aware of the **Apache License**, which describes contributions, and agree to the **Contributors License Agreement**. This is common practice in all major open source projects. To make this process as simple as possible, we are using CLA assistant for individual contributions. CLA assistant is an open source tool that integrates well with GitHub and enables a one-click experience for accepting the CLA. For company contributers, special rules apply. See the respective section below for details.
 
-* There are several requirements regarding code style, quality, and product standards which need to be met.
+* Several requirements regarding code style, quality, and product standards must be met.
 
-* Not all proposed contributions can be accepted. The code must fit the overall direction of the project and really improve it. For most bug fixes this is a given, but major feature implementation first need to be discussed with one of the projects committers (the top 20 or more of the Contributors List), possibly one who touched the related code recently. The more effort you invest, the better you should clarify in advance whether the contribution fits: the best way would be to just open an enhancement ticket in the issue tracker to discuss the feature you plan to implement (make it clear you intend to contribute). We will then forward the proposal to the respective code owner, this avoids disappointment.
+* Not all proposed contributions can be accepted. The code must fit the overall direction and verifiably improve the project. While most bug fixes are improvements, major feature implementations must be discussed with one of the projects committers (the top 20 or so users in the Contributors List), preferably someone who recently touched the related code. The more effort you invest in your contribution, the more reason there is to clarify in advance whether the contribution fits the criteria. The best path is to open an enhancement ticket in the issue tracker to discuss the feature you plan to implement, making it clear you intend to contribute. We will then forward the proposal to the respective code owner. This process is intended to avoid unused work and disappointment.
 
 ### Contributor License Agreement
 
-When you contribute (code, documentation, or anything else), you have to be aware that your contribution is covered by the same Apache 2.0 License that is applied this project. In particular you need to agree to the Individual Contributor License Agreement, which can be found here. (This applies to all contributors, including those contributing on behalf of a company). If you agree to its content, you simply have to click on the link posted by the CLA assistant as a comment to the pull request. Click it to check the CLA, then accept it on the following screen if you agree to it. CLA assistant will save this decision for upcoming contributions and will notify you if there is any change to the CLA in the meantime.
+When you contribute code, documentation, or anything else, be aware that your contribution is covered by the same Apache 2.0 License that  applied to this project. In particular, you must agree to the Individual Contributor License Agreement, which can be found here. This applies to all contributors, including those contributing on behalf of a company. If you agree to its content, click the link posted by the CLA assistant as a comment to the pull request. Click it to check the CLA, then accept it on the following screen if you agree. The CLA assistant saves your agreement for upcoming contributions and will notify you if there is any change to the CLA in the meantime.
 
 ### Contribution Process
 
-Make sure the change is welcome. Best do so by proposing it in a GitHub issue.
-Fork the project and create a new branch there.
-Commit and push your changes on that branch. In the commit messages, specify what you were changing and provide a GitHub issue number. Issue that you created to discuss the change initially.
-Create a Pull Request to origin repository to the master branch.
-Follow the link posted by the CLA assistant to your pull request and accept it.
-Wait for our code review and approval, possibly enhancing your change on request.
-Once the change has been approved we will inform you in a comment.
-We will close the pull request. You can remove the obsolet branch from your fork.
+To contribute an improvement to this project: 
+1. Make sure the change is valid and warranted by proposing it in a GitHub issue.
+2. When you receive approval for your proposal, fork the project and create a new branch.
+3. Commit and push your changes on your new branch. In the commit messages, specify what you were changing and provide the GitHub issue number you initially created to propose the change.
+5. Create a Pull Request from the origin repository to the master branch.
+6. Follow the link posted by the CLA assistant to your pull request and accept it.
+7. Wait for YaaS code review and approval. Approval may request enhancements to your change.
+8. When the change is approved, you will receive a notification in a comment.
+9. YaaS will close the pull request. You can then remove the obsolete branch from your fork.
