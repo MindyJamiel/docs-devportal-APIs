@@ -3,7 +3,7 @@ title: 'Account Status'
 type: 'Details'
 ---
 
-Each service must include one or more Details-type documents. Details documents provide more in-depth information about the service, building on the Overview content with specifications and requirements that do not belong in Tutorials, the API Reference, or the Glossary. Examples of Details content include: 
+Each service must include one or more Details-type document. Details documents provide more in-depth information about the service, building on the Overview content with specifications and requirements that do not belong in Tutorials, the API Reference, or the Glossary. Examples of Details content include: 
 
 * Diagrams of the service's execution flow
 * Required subscriptions to other services, in order to use this service
