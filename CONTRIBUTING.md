@@ -40,10 +40,10 @@ When you report an issue, a user with permissions will either follow up on a res
 If you find a security issue, please act responsibly and report it directly to YaaS, instead of the public issue tracker. 
 
 To report a security issue: 
-1. Go to https://devportal.yaas.io/
+1. Go to https://devportal.yaas.io/.
 2. Click a feedback button, link, or icon. 
 3. Enter all details concerning the issue. 
-4. Click Submit.
+4. Click **Submit**.
 
 ##### Issue Reporting Disclaimer
 
