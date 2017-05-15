@@ -2,7 +2,10 @@
  title: 'Overview'
  ---
  
-Use this template to describe your service and its uses. Maintain the title metadata and formatting. This is the introductory document in your service API documentation. Here is an example of Overview content for a sample service called the Account service in a sample package called the **Forum** package: 
+Use this template to describe your service and its uses. Maintain the title metadata and formatting. This is the introductory document in your service API documentation. 
+
+### Example Content
+Here is an example of Overview content for a sample service called the Account service in a sample package called the **Forum** package: 
  
 Use the **Forum** package's Account service to manage user accounts in your online forums. The service allows you to: 
 
