@@ -63,7 +63,7 @@ There are a few important things to know:
 
 ### Contributor License Agreement
 
-When you contribute code, documentation, or anything else, be aware that your contribution is covered by the same Apache 2.0 License that  applied to this project. In particular, you must agree to the Individual Contributor License Agreement, which can be found here. This applies to all contributors, including those contributing on behalf of a company. If you agree to its content, click the link posted by the CLA assistant as a comment to the pull request. Click it to check the CLA, then accept it on the following screen if you agree. The CLA assistant saves your agreement for upcoming contributions and will notify you if there is any change to the CLA in the meantime.
+When you contribute code, documentation, or anything else, be aware that your contribution is covered by the same Apache 2.0 License  applied to this project. In particular, you must agree to the Individual Contributor License Agreement, which can be found here. This applies to all contributors, including those contributing on behalf of a company. If you agree to its content, click the link posted by the CLA assistant as a comment to the pull request. Click it to check the CLA, then accept it on the following screen if you agree. The CLA assistant saves your agreement for upcoming contributions and will notify you if there is any change to the CLA in the meantime.
 
 ### Contribution Process
 
